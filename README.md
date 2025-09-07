@@ -1,2 +1,2 @@
 # Machine-Learning-Project-Personal-Loan-Campaign
-Objective To predict whether a liability customer will buy personal loans, to understand which customer attributes are most significant in driving purchases, and identify which segment of customers to target more.
+To identify bank customers with a high likelihood of purchasing a loan, you need to analyze the provided data to understand key customer attributes influencing loan acquisition. With this analysis, build a predictive model that captures patterns and customer characteristics, which will help the bank effectively target potential loan buyers, improving marketing efforts and increasing conversion rates.
